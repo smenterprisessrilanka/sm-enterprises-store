@@ -95,7 +95,8 @@ function sendOrder() {
   message += `%0AItems Total: Rs. ${itemsTotal}`;
   message += `%0AFinal Total: Rs. ${finalTotal}`;
 
-  const phoneNumber = "947XXXXXXXX";
+  const phoneNumber = "94762794698";
   const url = `https://wa.me/${phoneNumber}?text=${message}`;
   window.open(url, "_blank");
+
 }
