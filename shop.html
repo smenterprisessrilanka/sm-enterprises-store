@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>SM Enterprises | Shop</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+  <div class="top-bar">
+    <div class="brand">
+      <img src="images/logo.jpg" alt="SM Enterprises Logo" class="logo" />
+
+      <div class="brand-text">
+        <h1 class="shop-title">SM Enterprises</h1>
+        <p class="shop-tagline">Quality products for everyday needs</p>
+      </div>
+    </div>
+
+    <a href="cart.html" class="cart-link" aria-label="View cart">
+      <div class="cart-icon-wrapper">
+        <svg class="cart-icon" xmlns="http://www.w3.org/2000/svg"
+          viewBox="0 0 24 24" fill="none" stroke="currentColor"
+          stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+          <circle cx="9" cy="21" r="1"></circle>
+          <circle cx="20" cy="21" r="1"></circle>
+          <path d="M1 1h4l2.6 12.5a2 2 0 0 0 2 1.5h8.8a2 2 0 0 0 2-1.5L23 6H6"></path>
+        </svg>
+
+        <span id="cart-count" class="cart-badge">0</span>
+      </div>
+    </a>
+  </div>
+
+  <div class="shop-controls">
+    <input type="text" id="search-input" placeholder="Search products..." />
+
+    <select id="category-filter">
+      <option value="All">All Categories</option>
+      <option value="Car Accessories">Car Accessories</option>
+      <option value="Shoes">Shoes</option>
+      <option value="Watches">Watches</option>
+      <option value="Lights and Mics">Lights and Mics</option>
+      <option value="Kitchen Items">Kitchen Items</option>
+    </select>
+  </div>
+
+  <div id="product-list"></div>
+
+  <script src="script.js"></script>
+</body>
+</html>

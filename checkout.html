@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>SM Enterprises | Checkout</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+  <div class="top-bar">
+    <div class="brand">
+      <img src="images/logo.jpg" alt="SM Enterprises Logo" class="logo" />
+
+      <div class="brand-text">
+        <h1 class="shop-title">SM Enterprises</h1>
+        <p class="shop-tagline">Secure Checkout</p>
+      </div>
+    </div>
+
+    <a href="cart.html" class="back-link">
+        <svg class="back-icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"
+        fill="none" stroke="currentColor" stroke-width="2.2"
+        stroke-linecap="round" stroke-linejoin="round">
+        <path d="M15 18l-6-6 6-6"></path>
+        </svg>
+        <span>Back to Cart</span>
+    </a>
+  </div>
+
+  <div class="page-header">
+    <h2>Checkout</h2>
+    <p>Enter your details and confirm your order.</p>
+  </div>
+
+  <div class="checkout-container">
+    <div class="checkout-form-box">
+      <h2>Customer Details</h2>
+
+      <form id="checkout-form">
+        <label for="name">Name</label>
+        <input type="text" id="name" required>
+
+        <label for="phone">Phone</label>
+        <input type="text" id="phone" required>
+
+        <label for="address">Address</label>
+        <textarea id="address" required></textarea>
+
+        <label for="payment">Payment Method</label>
+        <select id="payment" required>
+          <option value="">Select payment method</option>
+          <option value="Cash on Delivery">Cash on Delivery</option>
+          <option value="Bank Transfer">Bank Transfer</option>
+          <option value="WhatsApp Confirmation">WhatsApp Confirmation</option>
+        </select>
+
+        <button type="button" onclick="sendOrder()">Place Order</button>
+      </form>
+    </div>
+
+    <div class="order-summary-box">
+      <h2>Order Summary</h2>
+      <div id="checkout-items"></div>
+      <h3 id="checkout-total">Total: Rs. 0</h3>
+    </div>
+  </div>
+
+  <script src="checkout.js"></script>
+</body>
+</html>

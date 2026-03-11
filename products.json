@@ -1,0 +1,106 @@
+[
+    {
+    "id": 1,
+    "name": "3 in 1 Data Cable",
+    "category": "Mobile Accessories",
+    "price": 650,
+    "image": "images/3-in-1-data-cable.jpg",
+    "description": "3 in 1 data cable."
+  },
+    {
+    "id": 2,
+    "name": "Car Charging Adapter",
+    "category": "Car Accessories",
+    "price": 750,
+    "image": "images/car-charger.png",
+    "description": "Fast charging dual USB car adapter."
+  },
+    {
+    "id": 3,
+    "name": "Crystal Gear Knob",
+    "category": "Car Accessories",
+    "price": 6200,
+    "image": "images/crystal-gear-knob.jpg",
+    "description": "Stylish crystal gear knob for cars."
+  },
+    {
+    "id": 4,
+    "name": "Bubble Gear Knob",
+    "category": "Car Accessories",
+    "price": 2750,
+    "image": "images/bubble-gear-knob.png",
+    "description": "Stylish bubble gear knob for cars."
+  },
+    {
+    "id": 5,
+    "name": "5-Speed Manual Gear Knob",
+    "category": "Car Accessories",
+    "price": 2500,
+    "image": "images/5-speed-manual-gear-knob.jpg",
+    "description": "5-Speed Manual gear knob for cars."
+  },
+    {
+    "id": 6,
+    "name": "Winter Shoes",
+    "category": "Shoes",
+    "price": 4999,
+    "image": "images/winter-shoes.jpg",
+    "description": "Comfortable lightweight winter shoes."
+  },
+    {
+    "id": 7,
+    "name": "Men's Shoes",
+    "category": "Shoes",
+    "price": 7999,
+    "image": "images/mens-shoes.jpg",
+    "description": "Comfortable men's shoes."
+  },
+    {
+    "id": 8,
+    "name": "Men's NIKE Shoes",
+    "category": "Shoes",
+    "price": 8499,
+    "image": "images/mens-NIKE-shoes.jpg",
+    "description": "Comfortable men's NIKE shoes."
+  },
+    {
+    "id": 9,
+    "name": "Men's Lite Shoes",
+    "category": "Shoes",
+    "price": 1999,
+    "image": "images/mens-lite-shoes.jpg",
+    "description": "Comfortable men's lite shoes."
+  },
+    {
+    "id": 10,
+    "name": "Men's Beige High Top Hiking Shoes",
+    "category": "Shoes",
+    "price": 4999,
+    "image": "images/mens-Beige-High-Top-Hiking-shoes.jpg",
+    "description": "Comfortable men's hiking shoes."
+  },
+    {
+    "id": 11,
+    "name": "Athletic Shoes",
+    "category": "Shoes",
+    "price": 4999,
+    "image": "images/athletic-shoes.jpg",
+    "description": "Comfortable athletic shoes."
+  },
+    {
+    "id": 12,
+    "name": "LED Watch",
+    "category": "Watches",
+    "price": 799,
+    "image": "images/LED-watch.png",
+    "description": "Modern LED watch."
+  },
+    {
+    "id": 13,
+    "name": "Men's Watch",
+    "category": "Watches",
+    "price": 4999,
+    "image": "images/mens-watch.jpg",
+    "description": "Men's watch."
+  }
+]

@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>SM Enterprises | Your Cart</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+  <div class="top-bar">
+    <div class="brand">
+      <img src="images/logo.jpg" alt="SM Enterprises Logo" class="logo" />
+
+      <div class="brand-text">
+        <h1 class="shop-title">SM Enterprises</h1>
+        <p class="shop-tagline">Your selected products</p>
+      </div>
+    </div>
+
+    <a href="shop.html" class="back-link">
+        <svg class="back-icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"
+        fill="none" stroke="currentColor" stroke-width="2.2"
+        stroke-linecap="round" stroke-linejoin="round">
+        <path d="M15 18l-6-6 6-6"></path>
+        </svg>
+        <span>Back to Shop</span>
+    </a>
+  </div>
+
+  <div class="page-header">
+    <h2>Your Cart</h2>
+    <p>Review your items before checkout.</p>
+  </div>
+
+  <div class="cart-layout">
+    <div class="cart-left">
+      <div id="cart-items"></div>
+    </div>
+
+    <div class="cart-right">
+      <div class="summary-box">
+        <h3>Order Summary</h3>
+
+        <div class="summary-row">
+          <span>Items Total</span>
+          <span id="summary-items-total">Rs. 0</span>
+        </div>
+
+        <div class="summary-row">
+          <span>Shipping Area</span>
+          <select id="shipping-area" onchange="updateShipping()">
+            <option value="kalutara">Kalutara District</option>
+            <option value="colombo">Colombo District</option>
+            <option value="Gampaha">Gampaha District (Except Ja-Ela)</option>
+            <option value="island">Ja-Ela and Other Districts</option>
+          </select>
+        </div>
+
+        <div class="summary-row">
+          <span>Shipping Fee</span>
+          <span id="shipping-fee">Rs. 300</span>
+        </div>
+
+        <div class="summary-row total-row">
+          <span>Total</span>
+          <span id="total">Rs. 0</span>
+        </div>
+
+        <div class="cart-actions summary-actions">
+          <button type="button" onclick="clearCart()">Clear Cart</button>
+          <button type="button" onclick="sendWhatsAppOrder()">Order on WhatsApp</button>
+          <button type="button" onclick="goToCheckout()">Checkout</button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <script src="cart.js"></script>
+</body>
+</html>
