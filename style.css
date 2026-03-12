@@ -373,6 +373,23 @@ body {
   margin-bottom: 24px;
 }
 
+/* RELATED PRODUCTS */
+.related-products-section {
+  margin-top: 40px;
+}
+
+.related-products-section h2 {
+  margin: 0 0 18px;
+  font-size: 28px;
+  letter-spacing: -0.02em;
+}
+
+.related-products-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 22px;
+}
+
 /* BUTTONS */
 button {
   padding: 12px 16px;
