@@ -151,8 +151,18 @@
     "image": "images/60-3200-marker-set.jpeg",
     "description": "60 Colores Acrylic Paint Art Marker Set",
     "stockStatus": "Out of Stock"
+  },
+    {
+    "id": 18,
+    "name": "Mini Padlock with a Key",
+    "category": "Other",
+    "price": 450,
+    "image": "images/mini-padlock-with-a-key.jpeg",
+    "description": "Mini Padlock with a Key",
+    "stockStatus": "In Stock"
   }
 ]
+
 
 
 
