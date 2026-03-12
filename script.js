@@ -15,8 +15,16 @@ fetch("products.json")
     displayProducts(allProducts);
     updateCartCount();
 
-    document.getElementById("search-input").addEventListener("input", filterProducts);
-    document.getElementById("category-filter").addEventListener("change", filterProducts);
+    const searchInput = document.getElementById("search-input");
+    const categoryFilter = document.getElementById("category-filter");
+
+    if (searchInput) {
+      searchInput.addEventListener("input", filterProducts);
+    }
+
+    if (categoryFilter) {
+      categoryFilter.addEventListener("change", filterProducts);
+    }
   })
   .catch(error => {
     console.error("Error loading products:", error);
@@ -36,9 +44,18 @@ function displayProducts(products) {
     card.className = "product-card";
 
     card.innerHTML = `
-      <img src="${product.image}" alt="${product.name}" width="200">
-      <h3>${product.name}</h3>
+      <a href="product.html?id=${product.id}" class="product-link">
+        <img src="${product.image}" alt="${product.name}">
+      </a>
+
+      <h3>
+        <a href="product.html?id=${product.id}" class="product-link-text">
+          ${product.name}
+        </a>
+      </h3>
+
       <p>Rs. ${product.price}</p>
+
       <button type="button">Add to Cart</button>
     `;
 
@@ -91,5 +108,12 @@ function updateCartCount() {
 
   const cart = getCart();
   const totalItems = cart.reduce((sum, item) => sum + (item.quantity || 1), 0);
+
   cartCount.textContent = totalItems;
+
+  if (totalItems === 0) {
+    cartCount.style.display = "none";
+  } else {
+    cartCount.style.display = "flex";
+  }
 }
