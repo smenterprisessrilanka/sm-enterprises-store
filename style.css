@@ -896,3 +896,121 @@ button.danger-btn:hover {
     font-size: 22px;
   }
 }
+
+@media (max-width: 768px) {
+  body {
+    padding: 15px;
+  }
+
+  .top-bar {
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: space-between;
+    gap: 14px;
+    padding: 16px;
+  }
+
+  .brand {
+    flex: 1;
+    min-width: 0;
+    align-items: center;
+    gap: 12px;
+  }
+
+  .logo {
+    width: 56px;
+    height: 56px;
+    border-radius: 14px;
+    flex-shrink: 0;
+  }
+
+  .brand-text {
+    min-width: 0;
+  }
+
+  .shop-title {
+    font-size: 22px;
+    line-height: 1.15;
+    margin: 0;
+  }
+
+  .shop-tagline {
+    font-size: 13px;
+    margin-top: 4px;
+    line-height: 1.4;
+  }
+
+  .cart-link {
+    width: 52px;
+    height: 52px;
+    flex-shrink: 0;
+    align-self: center;
+  }
+
+  .cart-badge {
+    top: -6px;
+    right: -8px;
+  }
+
+  .shop-controls {
+    flex-direction: column;
+    gap: 12px;
+  }
+
+  .shop-controls input,
+  .shop-controls select {
+    width: 100%;
+    min-width: 100%;
+  }
+
+  .cart-item-row {
+    grid-template-columns: 1fr;
+    align-items: start;
+  }
+
+  .cart-image {
+    width: 120px;
+    height: 120px;
+    min-width: 120px;
+    max-width: 120px;
+  }
+
+  .cart-item-info h3 {
+    font-size: 20px;
+  }
+
+  .summary-row {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+
+  .summary-row select {
+    width: 100%;
+    min-width: 100%;
+  }
+
+  .checkout-card {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+
+  .checkout-image {
+    width: 90px;
+    height: 90px;
+    min-width: 90px;
+    max-width: 90px;
+  }
+
+  .product-details-image {
+    height: 300px;
+  }
+
+  .product-details-info h2 {
+    font-size: 26px;
+  }
+
+  .product-details-price {
+    font-size: 22px;
+  }
+}
+
