@@ -30,6 +30,12 @@ fetch("products.json")
     console.error("Error loading products:", error);
   });
 
+function getStockClass(status) {
+  if (status === "In Stock") return "in-stock";
+  if (status === "Limited Stock") return "limited-stock";
+  return "out-of-stock";
+}
+
 function displayProducts(products) {
   const container = document.getElementById("product-list");
   container.innerHTML = "";
@@ -43,7 +49,14 @@ function displayProducts(products) {
     const card = document.createElement("div");
     card.className = "product-card";
 
+    const stockStatus = product.stockStatus || "In Stock";
+    const isOutOfStock = stockStatus === "Out of Stock";
+
     card.innerHTML = `
+      <div class="stock-badge ${getStockClass(stockStatus)}">
+        ${stockStatus}
+      </div>
+
       <a href="product.html?id=${product.id}" class="product-link">
         <img src="${product.image}" alt="${product.name}">
       </a>
@@ -56,13 +69,18 @@ function displayProducts(products) {
 
       <p>Rs. ${product.price}</p>
 
-      <button type="button">Add to Cart</button>
+      <button type="button" ${isOutOfStock ? "disabled" : ""}>
+        ${isOutOfStock ? "Unavailable" : "Add to Cart"}
+      </button>
     `;
 
     const button = card.querySelector("button");
-    button.addEventListener("click", () => {
-      addToCart(product);
-    });
+
+    if (!isOutOfStock) {
+      button.addEventListener("click", () => {
+        addToCart(product);
+      });
+    }
 
     container.appendChild(card);
   });
@@ -84,6 +102,10 @@ function filterProducts() {
 }
 
 function addToCart(product) {
+  if (product.stockStatus === "Out of Stock") {
+    return;
+  }
+
   let cart = getCart();
 
   const existingProduct = cart.find(item => item.id === product.id);
