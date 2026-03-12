@@ -263,6 +263,7 @@ body {
   background: rgba(255, 255, 255, 0.95);
   box-shadow: var(--shadow-sm);
   transition: var(--transition);
+  position: relative;
 }
 
 .product-card:hover {
@@ -861,17 +862,18 @@ button.danger-btn:hover {
   .product-details-price {
     font-size: 22px;
   }
-  .stock-badge {
-  display: inline-flex;
-  align-items: center;
-  justify-content: center;
+.stock-badge {
+  position: absolute;
+  top: 12px;
+  left: 12px;
   padding: 6px 10px;
   border-radius: 999px;
   font-size: 12px;
   font-weight: 700;
-  margin-bottom: 12px;
-  width: fit-content;
+  z-index: 2;
 }
+
+/* STOCK TYPES */
 
 .in-stock {
   background: #dcfce7;
@@ -888,12 +890,11 @@ button.danger-btn:hover {
   color: #991b1b;
 }
 
+/* DISABLE BUTTON */
+
 button:disabled {
   opacity: 0.6;
   cursor: not-allowed;
   transform: none;
 }
 }
-
-
-
