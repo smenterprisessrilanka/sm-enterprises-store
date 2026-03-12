@@ -115,7 +115,7 @@
     "image": "images/mens-watch.jpg",
     "description": "Men's watch.",
     "stockStatus": "In Stock"
-  }
+  },
     {
     "id": 14,
     "name": "48 Colores Acrylic Paint Art Marker Set ",
@@ -126,3 +126,4 @@
     "stockStatus": "Out of Stock"
   }
 ]
+
