@@ -6,6 +6,7 @@
     "price": 650,
     "image": "images/3-in-1-data-cable.jpg",
     "description": "3 in 1 data cable."
+    "stockStatus": "Limited Stock"
   },
     {
     "id": 2,
@@ -14,6 +15,7 @@
     "price": 750,
     "image": "images/car-charger.png",
     "description": "Fast charging dual USB car adapter."
+    "stockStatus": "In Stock"
   },
     {
     "id": 3,
@@ -22,6 +24,7 @@
     "price": 6200,
     "image": "images/crystal-gear-knob.jpg",
     "description": "Stylish crystal gear knob for cars."
+    "stockStatus": "In Stock"
   },
     {
     "id": 4,
@@ -30,6 +33,7 @@
     "price": 2750,
     "image": "images/bubble-gear-knob.png",
     "description": "Stylish bubble gear knob for cars."
+    "stockStatus": "In Stock"
   },
     {
     "id": 5,
@@ -38,6 +42,7 @@
     "price": 2500,
     "image": "images/5-speed-manual-gear-knob.jpg",
     "description": "5-Speed Manual gear knob for cars."
+    "stockStatus": "In Stock"
   },
     {
     "id": 6,
@@ -46,6 +51,7 @@
     "price": 4999,
     "image": "images/winter-shoes.jpg",
     "description": "Comfortable lightweight winter shoes."
+    "stockStatus": "In Stock"
   },
     {
     "id": 7,
@@ -54,6 +60,7 @@
     "price": 7999,
     "image": "images/mens-shoes.jpg",
     "description": "Comfortable men's shoes."
+    "stockStatus": "In Stock"
   },
     {
     "id": 8,
@@ -62,6 +69,7 @@
     "price": 8499,
     "image": "images/mens-NIKE-shoes.jpg",
     "description": "Comfortable men's NIKE shoes."
+    "stockStatus": "In Stock"
   },
     {
     "id": 9,
@@ -70,6 +78,7 @@
     "price": 1999,
     "image": "images/mens-lite-shoes.jpg",
     "description": "Comfortable men's lite shoes."
+    "stockStatus": "In Stock"
   },
     {
     "id": 10,
@@ -78,6 +87,7 @@
     "price": 4999,
     "image": "images/mens-Beige-High-Top-Hiking-shoes.jpg",
     "description": "Comfortable men's hiking shoes."
+    "stockStatus": "In Stock"
   },
     {
     "id": 11,
@@ -86,6 +96,7 @@
     "price": 4999,
     "image": "images/athletic-shoes.jpg",
     "description": "Comfortable athletic shoes."
+    "stockStatus": "In Stock"
   },
     {
     "id": 12,
@@ -94,6 +105,7 @@
     "price": 799,
     "image": "images/LED-watch.png",
     "description": "Modern LED watch."
+    "stockStatus": "In Stock"
   },
     {
     "id": 13,
@@ -102,5 +114,15 @@
     "price": 4999,
     "image": "images/mens-watch.jpg",
     "description": "Men's watch."
+    "stockStatus": "In Stock"
+  }
+    {
+    "id": 14,
+    "name": "48 Colores Acrylic Paint Art Marker Set ",
+    "category": "Marker Pens",
+    "price": 2200,
+    "image": "images/48-2200-marker-set.jpg",
+    "description": "48 Colores Acrylic Paint Art Marker Set"
+    "stockStatus": "In Stock"
   }
 ]
