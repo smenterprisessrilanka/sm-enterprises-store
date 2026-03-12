@@ -98,5 +98,4 @@ function sendOrder() {
   const phoneNumber = "94762794698";
   const url = `https://wa.me/${phoneNumber}?text=${message}`;
   window.open(url, "_blank");
-
 }
