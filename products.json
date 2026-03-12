@@ -130,7 +130,7 @@
     "name": "48 Colores Acrylic Paint Art Marker Set Box",
     "category": "Art and Craft",
     "price": 2500,
-    "image": "images/48-2200-marker-set.png",
+    "image": "images/48-2500-marker-set.png",
     "description": "48 Colores Acrylic Paint Art Marker Set Box",
     "stockStatus": "Out of Stock"
   },
@@ -139,7 +139,7 @@
     "name": "60 Colores Acrylic Paint Art Marker Set Box",
     "category": "Art and Craft",
     "price": 4900,
-    "image": "images/60-4900-marker-set.jpg",
+    "image": "images/60-4900-marker-set.jpeg",
     "description": "60 Colores Acrylic Paint Art Marker Set Box",
     "stockStatus": "In Stock"
   },
@@ -148,11 +148,12 @@
     "name": "60 Colores Acrylic Paint Art Marker Set",
     "category": "Art and Craft",
     "price": 3200,
-    "image": "images/60-4900-marker-set.jpg",
+    "image": "images/60-3200-marker-set.jpeg",
     "description": "60 Colores Acrylic Paint Art Marker Set",
     "stockStatus": "Out of Stock"
   }
 ]
+
 
 
 
