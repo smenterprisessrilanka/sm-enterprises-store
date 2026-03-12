@@ -13,7 +13,7 @@
     "name": "Car Charging Adapter",
     "category": "Car Accessories",
     "price": 750,
-    "image": "images/car-charger.png",
+    "image": "images/car-charger.jpg",
     "description": "Fast charging dual USB car adapter.",
     "stockStatus": "In Stock"
   },
@@ -126,6 +126,7 @@
     "stockStatus": "Out of Stock"
   }
 ]
+
 
 
 
