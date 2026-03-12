@@ -183,7 +183,7 @@ function sendWhatsAppOrder() {
   message += `%0AItems Total: Rs. ${itemsTotal}`;
   message += `%0AFinal Total: Rs. ${finalTotal}`;
 
-  const phoneNumber = "+94762794698";
+  const phoneNumber = "94762794698";
   const url = `https://wa.me/${phoneNumber}?text=${message}`;
   window.open(url, "_blank");
 }
@@ -197,5 +197,4 @@ function goToCheckout() {
   }
 
   window.location.href = "checkout.html";
-
 }
