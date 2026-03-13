@@ -178,7 +178,7 @@
     "image": "images/clip-on-mic.jpg",
     "description": "A Mini Condenser Microphone with a 3.5Mm Jack, a Compact And Portable Clip-On Mic Suitable for Recording, Live Streaming, And Karaoke",
     "stockStatus": "Out of Stock"
-  }
+  },
     {
     "id": 21,
     "name": "Easterdecor Professional Wireless Lavalier Microphone",
@@ -186,6 +186,24 @@
     "price":1760,
     "image": "images/wireless-lavalier-microphone.jpg",
     "description": "Easterdecor Professional Wireless Lavalier Microphone, Noise-Canceling Function, Clear Audio, Lightweight Clip-On Design, Compatible with Smartphones, Laptops, Wireless Condenser Recording Microphone, Suitable for-- Interviews, Video Podcasts",
+    "stockStatus": "Out of Stock"
+  },
+    {
+    "id": 22,
+    "name": "Sunset Light Projector USB Night Light",
+    "category": "Lights and Mics",
+    "price":800,
+    "image": "images/sunset-light-projector-USB-night-light.jpg",
+    "description": "1pc Sunset Light Projector USB Night Light, Romantic Floor Lamp, Bedroom Ambiance Living Room Decoration, Rainbow Projection Lamp Gift Photo Background Romantic",
+    "stockStatus": "Out of Stock"
+  },
+    {
+    "id": 23,
+    "name": "Corn Stripper Peeler",
+    "category": "Kitchen Items",
+    "price": 610,
+    "image": "images/corn-stripper-peeler.jpg",
+    "description": "Corn Stripper Peeler Cob Cutter Thresher Corn Stripper Fruit Vegetable Tools Cooking Tools Kitchen Accessories Cob Remover",
     "stockStatus": "Out of Stock"
   }
 ]
