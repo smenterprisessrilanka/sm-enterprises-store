@@ -161,6 +161,15 @@
     "description": "Mini Padlock with a Key",
     "stockStatus": "In Stock"
   }
+    {
+    "id": 19,
+    "name": "16-In-1 Vegetable Chopper",
+    "category": "Kitchen Items",
+    "price": 3500,
+    "image": "images/16-in-1-vegetable-chopper",
+    "description": "Features 16 Cutting Modes And Comes with a Draining Basket, Making It a Versatile Kitchen Tool Suitable for Washing And Slicing All Kinds of Fruits And Vegetables",
+    "stockStatus": "Out of Stock"
+  }
 ]
 
 
