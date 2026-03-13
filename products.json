@@ -223,7 +223,34 @@
     "image": "images/human-motion-sensor-strip-night-light.jpg",
     "description": "1pc 10.01cm~50.01cm LED Smart Human Motion Sensor Strip Night Light for Cabinets, Wireless USB Powered Warm White & White Cabinet Lighting Strip, for easy to Install with Magnetic Adhesive, Suitable for Closets, Wardrobes, Cabinets, Stairs.",
     "stockStatus": "Out of Stock"
-  }
+  },
+    {
+    "id": 23,
+    "name": "Stainless Steel Corn Peeler",
+    "category": "Kitchen Items",
+    "price": 720,
+    "image": "images/stainless-steel-corn-peeler.jpg",
+    "description": "Stainless Steel Corn Peeler, Corn Husker, Corn Cob Removal Tool, Kitchen Gadget",
+    "stockStatus": "Out of Stock"
+  },
+    {
+    "id": 24,
+    "name": "High-quality Matte Translucent Shock Cover Designed Suitable for iPhone 17 Pro ",
+    "category": "Mobile Accessories",
+    "price": 1100,
+    "image": "images/iPhone-17-pro-back-cover.jpg",
+    "description": "Phone case: High-quality Matte Translucent Shock- Cover Designed Suitable for iPhone 17 Pro Max 17 Pro 16 15 14 13 Pro Max Plus Air Men's and Women's minimalist fashion Luxury protective case Black",
+    "stockStatus": "Out of Stock"
+  },
+    {
+    "id": 25,
+    "name": "Mini Desktop Vacuum Cleaner",
+    "category": "Other",
+    "price": 1750,
+    "image": "images/mini-desktop-vacuum-cleaner.jpg",
+    "description": "1 Mini Desktop Vacuum Cleaner, - Wireless Desktop Dust Collector, Suitable for Keyboards, Homes, Schools, Offices, Keyboard Cleaning, Compact Cleaner, Battery Powered Vacuum Cleaner(Battery Not Included",
+    "stockStatus": "Out of Stock"
+  },
 ]
 
 
