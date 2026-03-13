@@ -205,6 +205,15 @@
     "image": "images/corn-stripper-peeler.jpg",
     "description": "Corn Stripper Peeler Cob Cutter Thresher Corn Stripper Fruit Vegetable Tools Cooking Tools Kitchen Accessories Cob Remover",
     "stockStatus": "Out of Stock"
+  },
+    {
+    "id": 24,
+    "name": "USB Eye-Caring Night Light",
+    "category": "Lights and Mics",
+    "price":199,
+    "image": "images/USB-eye-caring-night-light.jpg",
+    "description": "USB Eye-Caring Night Light, Bedroom Eye-Caring Table Lamp, Computer Mini Light, Portable Round Light for Power Banks, Modern Minimalist Creative USB Night Light for Bedside, Bedroom, Car Use, Ambient Lighting.",
+    "stockStatus": "Out of Stock"
   }
 ]
 
