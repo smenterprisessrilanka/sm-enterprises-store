@@ -50,7 +50,7 @@
     "category": "Shoes",
     "price": 4999,
     "image": "images/winter-shoes.jpg",
-    "description": "Comfortable lightweight winter shoes.",
+    "description": "Comfortable lightweight winter shoes. Size 39 available.",
     "stockStatus": "In Stock"
   },
     {
@@ -68,7 +68,7 @@
     "category": "Shoes",
     "price": 8499,
     "image": "images/mens-NIKE-shoes.jpg",
-    "description": "Comfortable men's NIKE shoes.",
+    "description": "Comfortable men's NIKE shoes. Size 43 available.",
     "stockStatus": "In Stock"
   },
     {
@@ -77,7 +77,7 @@
     "category": "Shoes",
     "price": 1999,
     "image": "images/mens-lite-shoes.jpg",
-    "description": "Comfortable men's lite shoes.",
+    "description": "Comfortable men's lite shoes. Size 39 available.",
     "stockStatus": "In Stock"
   },
     {
@@ -86,7 +86,7 @@
     "category": "Shoes",
     "price": 4999,
     "image": "images/mens-Beige-High-Top-Hiking-shoes.jpg",
-    "description": "Comfortable men's hiking shoes.",
+    "description": "Comfortable men's hiking shoes. Size 39 available.",
     "stockStatus": "In Stock"
   },
     {
@@ -95,7 +95,7 @@
     "category": "Shoes",
     "price": 4999,
     "image": "images/athletic-shoes.jpg",
-    "description": "Comfortable athletic shoes.",
+    "description": "Comfortable athletic shoes. Size 39 available.",
     "stockStatus": "In Stock"
   },
     {
