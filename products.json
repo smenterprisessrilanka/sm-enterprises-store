@@ -169,6 +169,24 @@
     "image": "images/16-in-1-vegetable-chopper.jpg",
     "description": "Features 16 Cutting Modes And Comes with a Draining Basket, Making It a Versatile Kitchen Tool Suitable for Washing And Slicing All Kinds of Fruits And Vegetables",
     "stockStatus": "Out of Stock"
+  },
+    {
+    "id": 20,
+    "name": "Clip on Fully Capacitive Microphone",
+    "category": "Lights and Mics",
+    "price": 699,
+    "image": "images/clip-on-mic.jpg",
+    "description": "A Mini Condenser Microphone with a 3.5Mm Jack, a Compact And Portable Clip-On Mic Suitable for Recording, Live Streaming, And Karaoke",
+    "stockStatus": "Out of Stock"
+  }
+    {
+    "id": 21,
+    "name": "Easterdecor Professional Wireless Lavalier Microphone",
+    "category": "Lights and Mics",
+    "price":1760,
+    "image": "images/wireless-lavalier-microphone.jpg",
+    "description": "Easterdecor Professional Wireless Lavalier Microphone, Noise-Canceling Function, Clear Audio, Lightweight Clip-On Design, Compatible with Smartphones, Laptops, Wireless Condenser Recording Microphone, Suitable for-- Interviews, Video Podcasts",
+    "stockStatus": "Out of Stock"
   }
 ]
 
