@@ -250,6 +250,15 @@
     "image": "images/mini-desktop-vacuum-cleaner.jpg",
     "description": "1 Mini Desktop Vacuum Cleaner, - Wireless Desktop Dust Collector, Suitable for Keyboards, Homes, Schools, Offices, Keyboard Cleaning, Compact Cleaner, Battery Powered Vacuum Cleaner(Battery Not Included",
     "stockStatus": "Out of Stock"
+  },
+    {
+    "id": 26,
+    "name": "100 Pairs of Random Urban Beauty Earrings",
+    "category": "Other",
+    "price": 1900,
+    "image": "images/100-beauty-earrings.png",
+    "description": "100 Pairs of Random Urban Beauty Earrings with Multiple Patterns, Suitable for Women And, Daily Party Plastic Perforated Earring Set",
+    "stockStatus": "In Stock"
   }
 ]
 
