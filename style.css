@@ -365,26 +365,39 @@ button:disabled {
   box-shadow: var(--shadow-md);
 }
 
+.product-details-info button {
+  width: 180px;
+  padding: 14px;
+  font-size: 15px;
+}
+
 .product-details-image-box {
   background: #fff;
   border: 1px solid var(--border);
   border-radius: 18px;
-  padding: 16px;
-  overflow: hidden;
+  padding: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
 .product-details-image {
   width: 100%;
-  height: 420px;
-  object-fit: cover;
-  border-radius: 14px;
-  display: block;
+  max-width: 420px;
+  height: auto;
+  object-fit: contain;
   transition: transform 0.4s ease;
-  will-change: transform;
 }
 
 .product-details-image:hover {
   transform: scale(1.06);
+}
+
+.product-details-info {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  gap: 14px;
 }
 
 .product-details-info h2 {
