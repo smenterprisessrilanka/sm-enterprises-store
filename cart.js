@@ -16,8 +16,8 @@ function getShippingCost(area) {
   if (area === "kalutara") return 300;
   if (area === "colombo") return 350;
   if (area === "gampaha") return 350;
-    if (area === "south") return 350;
-      if (area === "central") return 350;
+  if (area === "south") return 350;
+  if (area === "central") return 350;
   return 400;
 }
 
