@@ -254,10 +254,19 @@
     {
     "id": 26,
     "name": "100 Pairs of Random Urban Beauty Earrings",
-    "category": "Other",
+    "category": "Fancy",
     "price": 1900,
     "image": "images/100-beauty-earrings.png",
     "description": "100 Pairs of Random Urban Beauty Earrings with Multiple Patterns, Suitable for Women And, Daily Party Plastic Perforated Earring Set",
+    "stockStatus": "In Stock"
+  },
+    {
+    "id": 27,
+    "name": "Enchanteur Romantic Perfumed Body Lotion 500 ml",
+    "category": "Fancy",
+    "price": 1600,
+    "image": "images/enchanteur-romantic-perfumed-body-lotion.png",
+    "description": "MoistureSilk with Aloe Vera & Olive Butter | Soft, Glowing & Fragrant Skin",
     "stockStatus": "In Stock"
   }
 ]
