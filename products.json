@@ -225,7 +225,7 @@
     "stockStatus": "Out of Stock"
   },
     {
-    "id": 23,
+    "id": 26,
     "name": "Stainless Steel Corn Peeler",
     "category": "Kitchen Items",
     "price": 720,
@@ -234,7 +234,7 @@
     "stockStatus": "Out of Stock"
   },
     {
-    "id": 24,
+    "id": 27,
     "name": "High-quality Matte Translucent Shock Cover Designed Suitable for iPhone 17 Pro ",
     "category": "Mobile Accessories",
     "price": 1100,
@@ -243,7 +243,7 @@
     "stockStatus": "Out of Stock"
   },
     {
-    "id": 25,
+    "id": 28,
     "name": "Mini Desktop Vacuum Cleaner",
     "category": "Other",
     "price": 1750,
@@ -252,7 +252,7 @@
     "stockStatus": "Out of Stock"
   },
     {
-    "id": 26,
+    "id": 29,
     "name": "100 Pairs of Random Urban Beauty Earrings",
     "category": "Fancy",
     "price": 1900,
@@ -261,7 +261,7 @@
     "stockStatus": "In Stock"
   },
     {
-    "id": 27,
+    "id": 30,
     "name": "Enchanteur Romantic Perfumed Body Lotion 500 ml",
     "category": "Fancy",
     "price": 1600,
