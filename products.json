@@ -268,6 +268,15 @@
     "image": "images/enchanteur-romantic-perfumed-body-lotion.png",
     "description": "MoistureSilk with Aloe Vera & Olive Butter | Soft, Glowing & Fragrant Skin",
     "stockStatus": "In Stock"
+  },
+    {
+    "id": 31,
+    "name": "Perfume",
+    "category": "Fancy",
+    "price": 500,
+    "image": "images/enchanteur-romantic-perfumed-body-lotion.png",
+    "description": "Best Fragrance",
+    "stockStatus": "In Stock"
   }
 ]
 
