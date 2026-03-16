@@ -497,8 +497,8 @@ button {
 }
 
 button:hover {
-  background: var(--surface-2);
-  border-color: var(--border-strong);
+  background:  #e3041a;
+  border-color:  #e3041a;
   transform: translateY(-1px);
 }
 
