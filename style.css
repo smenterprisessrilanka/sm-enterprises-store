@@ -340,7 +340,7 @@ button:disabled {
 
 .product-card h3 {
   margin: 0 0 10px;
-  font-size: 20px;
+  font-size: 18px;
   line-height: 1.25;
 }
 
@@ -411,8 +411,9 @@ button:disabled {
 
 .product-details-price {
   font-size: 28px;
-  font-weight: 800;
+  font-weight: 600;
   margin: 0 0 18px;
+  color: rgba(101, 132, 123, 0.96);
 }
 
 .product-details-description {
@@ -494,6 +495,13 @@ button {
   font-weight: 700;
   transition: var(--transition);
   box-shadow: var(--shadow-sm);
+}
+
+.add-to-cart-btn{
+display:flex;
+align-items:center;
+justify-content:center;
+gap:8px;
 }
 
 button:hover {
