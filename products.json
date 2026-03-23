@@ -168,7 +168,7 @@
     "price": 3500,
     "image": "images/16-in-1-vegetable-chopper.jpg",
     "description": "Features 16 Cutting Modes And Comes with a Draining Basket, Making It a Versatile Kitchen Tool Suitable for Washing And Slicing All Kinds of Fruits And Vegetables",
-    "stockStatus": "Out of Stock"
+    "stockStatus": "In Stock"
   },
     {
     "id": 20,
@@ -177,7 +177,7 @@
     "price": 699,
     "image": "images/clip-on-mic.jpg",
     "description": "A Mini Condenser Microphone with a 3.5Mm Jack, a Compact And Portable Clip-On Mic Suitable for Recording, Live Streaming, And Karaoke",
-    "stockStatus": "Out of Stock"
+    "stockStatus": "In Stock"
   },
     {
     "id": 21,
@@ -204,7 +204,7 @@
     "price": 610,
     "image": "images/corn-stripper-peeler.jpg",
     "description": "Corn Stripper Peeler Cob Cutter Thresher Corn Stripper Fruit Vegetable Tools Cooking Tools Kitchen Accessories Cob Remover",
-    "stockStatus": "Out of Stock"
+    "stockStatus": "In Stock"
   },
     {
     "id": 24,
@@ -231,7 +231,7 @@
     "price": 720,
     "image": "images/stainless-steel-corn-peeler.jpg",
     "description": "Stainless Steel Corn Peeler, Corn Husker, Corn Cob Removal Tool, Kitchen Gadget",
-    "stockStatus": "Out of Stock"
+    "stockStatus": "In Stock"
   },
     {
     "id": 27,
@@ -240,7 +240,7 @@
     "price": 1100,
     "image": "images/iPhone-17-pro-back-cover.jpg",
     "description": "Phone case: High-quality Matte Translucent Shock- Cover Designed Suitable for iPhone 17 Pro Max 17 Pro 16 15 14 13 Pro Max Plus Air Men's and Women's minimalist fashion Luxury protective case Black",
-    "stockStatus": "Out of Stock"
+    "stockStatus": "In Stock"
   },
     {
     "id": 28,
@@ -249,7 +249,7 @@
     "price": 1750,
     "image": "images/mini-desktop-vacuum-cleaner.jpg",
     "description": "1 Mini Desktop Vacuum Cleaner, - Wireless Desktop Dust Collector, Suitable for Keyboards, Homes, Schools, Offices, Keyboard Cleaning, Compact Cleaner, Battery Powered Vacuum Cleaner(Battery Not Included",
-    "stockStatus": "Out of Stock"
+    "stockStatus": "In Stock"
   },
     {
     "id": 29,
@@ -267,7 +267,7 @@
     "price": 1600,
     "image": "images/enchanteur-romantic-perfumed-body-lotion.png",
     "description": "MoistureSilk with Aloe Vera & Olive Butter | Soft, Glowing & Fragrant Skin",
-    "stockStatus": "In Stock"
+    "stockStatus": "Out of Stock"
   }
 ]
 
