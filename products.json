@@ -10,6 +10,24 @@
   },
     {
     "id": 2,
+    "name": "4 in 1 USB Hub Black",
+    "category": "Mobile Accessories",
+    "price": 830,
+    "image": "images/USB-hub-black.png",
+    "description": "4 in 1 USB Hub",
+    "stockStatus": "Limited Stock"
+  },
+    {
+    "id": 3,
+    "name": "4 in 1 USB Hub White",
+    "category": "Mobile Accessories",
+    "price": 820,
+    "image": "images/USB-hub-white.png",
+    "description": "4 in 1 USB Hub",
+    "stockStatus": "Limited Stock"
+  },
+    {
+    "id": 4,
     "name": "Car Charging Adapter",
     "category": "Car Accessories",
     "price": 750,
@@ -18,7 +36,7 @@
     "stockStatus": "In Stock"
   },
     {
-    "id": 3,
+    "id": 5,
     "name": "Crystal Gear Knob",
     "category": "Car Accessories",
     "price": 6200,
@@ -27,7 +45,7 @@
     "stockStatus": "In Stock"
   },
     {
-    "id": 4,
+    "id": 6,
     "name": "Bubble Gear Knob",
     "category": "Car Accessories",
     "price": 2750,
@@ -36,7 +54,7 @@
     "stockStatus": "In Stock"
   },
     {
-    "id": 5,
+    "id": 7,
     "name": "5-Speed Manual Gear Knob",
     "category": "Car Accessories",
     "price": 2500,
@@ -45,7 +63,7 @@
     "stockStatus": "In Stock"
   },
     {
-    "id": 6,
+    "id": 8,
     "name": "Winter Shoes",
     "category": "Shoes",
     "price": 4999,
@@ -54,7 +72,7 @@
     "stockStatus": "In Stock"
   },
     {
-    "id": 7,
+    "id": 9,
     "name": "Men's Shoes",
     "category": "Shoes",
     "price": 7999,
@@ -63,7 +81,7 @@
     "stockStatus": "In Stock"
   },
     {
-    "id": 8,
+    "id": 10,
     "name": "Men's NIKE Shoes",
     "category": "Shoes",
     "price": 8499,
@@ -72,7 +90,7 @@
     "stockStatus": "In Stock"
   },
     {
-    "id": 9,
+    "id": 11,
     "name": "Men's Lite Shoes",
     "category": "Shoes",
     "price": 1999,
@@ -81,7 +99,7 @@
     "stockStatus": "In Stock"
   },
     {
-    "id": 10,
+    "id": 12,
     "name": "Men's Beige High Top Hiking Shoes",
     "category": "Shoes",
     "price": 4999,
@@ -90,7 +108,7 @@
     "stockStatus": "In Stock"
   },
     {
-    "id": 11,
+    "id": 13,
     "name": "Athletic Shoes",
     "category": "Shoes",
     "price": 4999,
@@ -99,7 +117,7 @@
     "stockStatus": "In Stock"
   },
     {
-    "id": 12,
+    "id": 14,
     "name": "LED Watch",
     "category": "Watches",
     "price": 799,
@@ -108,7 +126,7 @@
     "stockStatus": "In Stock"
   },
     {
-    "id": 13,
+    "id": 15,
     "name": "Men's Watch",
     "category": "Watches",
     "price": 4999,
@@ -117,7 +135,7 @@
     "stockStatus": "In Stock"
   },
     {
-    "id": 14,
+    "id": 16,
     "name": "48 Colores Acrylic Paint Art Marker Set",
     "category": "Art and Craft",
     "price": 2200,
@@ -126,7 +144,7 @@
     "stockStatus": "In Stock"
   },
     {
-    "id": 15,
+    "id": 17,
     "name": "48 Colores Acrylic Paint Art Marker Set Box",
     "category": "Art and Craft",
     "price": 2500,
@@ -135,7 +153,7 @@
     "stockStatus": "Out of Stock"
   },
     {
-    "id": 16,
+    "id": 18,
     "name": "60 Colores Acrylic Paint Art Marker Set Box",
     "category": "Art and Craft",
     "price": 4900,
@@ -144,7 +162,7 @@
     "stockStatus": "In Stock"
   },
     {
-    "id": 17,
+    "id": 19,
     "name": "60 Colores Acrylic Paint Art Marker Set",
     "category": "Art and Craft",
     "price": 3200,
@@ -153,7 +171,7 @@
     "stockStatus": "Out of Stock"
   },
     {
-    "id": 18,
+    "id": 20,
     "name": "Mini Padlock with a Key",
     "category": "Other",
     "price": 450,
@@ -162,7 +180,7 @@
     "stockStatus": "In Stock"
   },
     {
-    "id": 19,
+    "id": 21,
     "name": "16-In-1 Vegetable Chopper",
     "category": "Kitchen Items",
     "price": 3500,
@@ -171,7 +189,7 @@
     "stockStatus": "In Stock"
   },
     {
-    "id": 20,
+    "id": 22,
     "name": "Clip on Fully Capacitive Microphone",
     "category": "Lights and Mics",
     "price": 699,
@@ -180,7 +198,7 @@
     "stockStatus": "In Stock"
   },
     {
-    "id": 21,
+    "id": 23,
     "name": "Easterdecor Professional Wireless Lavalier Microphone",
     "category": "Lights and Mics",
     "price":1760,
@@ -189,7 +207,7 @@
     "stockStatus": "In Stock"
   },
     {
-    "id": 22,
+    "id": 24,
     "name": "Sunset Light Projector USB Night Light",
     "category": "Lights and Mics",
     "price":800,
@@ -198,7 +216,7 @@
     "stockStatus": "In Stock"
   },
     {
-    "id": 23,
+    "id": 25,
     "name": "Corn Stripper Peeler",
     "category": "Kitchen Items",
     "price": 610,
@@ -207,7 +225,7 @@
     "stockStatus": "In Stock"
   },
     {
-    "id": 24,
+    "id": 26,
     "name": "USB Eye-Caring Night Light",
     "category": "Lights and Mics",
     "price":199,
@@ -216,7 +234,7 @@
     "stockStatus": "In Stock"
   },
     {
-    "id": 25,
+    "id": 27,
     "name": "LED Smart Human Motion Sensor Strip Night Light for Cabinets",
     "category": "Lights and Mics",
     "price":940,
@@ -225,7 +243,7 @@
     "stockStatus": "In Stock"
   },
     {
-    "id": 26,
+    "id": 28,
     "name": "Stainless Steel Corn Peeler",
     "category": "Kitchen Items",
     "price": 720,
@@ -234,7 +252,7 @@
     "stockStatus": "In Stock"
   },
     {
-    "id": 27,
+    "id": 29,
     "name": "High-quality Matte Translucent Shock Cover Designed Suitable for iPhone 17 Pro ",
     "category": "Mobile Accessories",
     "price": 1100,
@@ -243,7 +261,7 @@
     "stockStatus": "In Stock"
   },
     {
-    "id": 28,
+    "id": 30,
     "name": "Mini Desktop Vacuum Cleaner",
     "category": "Other",
     "price": 1750,
@@ -252,7 +270,7 @@
     "stockStatus": "In Stock"
   },
     {
-    "id": 29,
+    "id": 31,
     "name": "100 Pairs of Random Urban Beauty Earrings",
     "category": "Fancy",
     "price": 1900,
@@ -261,7 +279,7 @@
     "stockStatus": "In Stock"
   },
     {
-    "id": 30,
+    "id": 32,
     "name": "Enchanteur Romantic Perfumed Body Lotion 500 ml",
     "category": "Fancy",
     "price": 1600,
