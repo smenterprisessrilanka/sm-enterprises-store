@@ -1,11 +1,11 @@
 [
     {
     "id": 1,
-    "name": "3 in 1 Data Cable",
+    "name": "Data Cable",
     "category": "Mobile Accessories",
-    "price": 650,
-    "image": "images/3-in-1-data-cable.jpg",
-    "description": "3 in 1 data cable.",
+    "price": 2650,
+    "image": "images/u-green-data-cable.jpg",
+    "description": "UGREEN data cable.",
     "stockStatus": "Limited Stock"
   },
     {
