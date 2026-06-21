@@ -1,6 +1,6 @@
 const container = document.getElementById("cart-items");
 
-let shippingCost = parseInt(localStorage.getItem("shippingCost")) || 300;
+let shippingCost = parseInt(localStorage.getItem("shippingCost")) || 400;
 
 renderCart();
 
@@ -13,11 +13,11 @@ function saveCart(cart) {
 }
 
 function getShippingCost(area) {
-  if (area === "kalutara") return 300;
-  if (area === "colombo") return 350;
-  if (area === "gampaha") return 350;
-  if (area === "south") return 350;
-  if (area === "central") return 350;
+  if (area === "kalutara") return 400;
+  if (area === "colombo") return 450;
+  if (area === "gampaha") return 450;
+  if (area === "south") return 450;
+  if (area === "central") return 450;
   return 400;
 }
 
