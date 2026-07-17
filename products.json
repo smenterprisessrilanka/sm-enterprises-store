@@ -112,7 +112,7 @@
     "name": "Pink Cloud Slippers",
     "category": "Shoes",
     "price": 1250,
-    "image": "images/pink-cloud-slippers.jpg",
+    "image": "images/pink-cloud-slippers.jpeg",
     "description": "Comfortable low weight slippers. Size 39 available.",
     "stockStatus": "In Stock"
   },
@@ -139,7 +139,7 @@
     "name": "Portable Hanging Watch",
     "category": "Watches",
     "price": 780,
-    "image": "images/portable-hanging-watch.jpg",
+    "image": "images/portable-hanging-watch.jpeg",
     "description": "Portable Hanging Watch",
     "stockStatus": "In Stock"
   },
@@ -148,7 +148,7 @@
     "name": "Digital Alarm Cloak",
     "category": "Watches",
     "price": 950,
-    "image": "images/digital-alarm-clock.jpg",
+    "image": "images/digital-alarm-clock.jpeg",
     "description": "Digital Alarm Cloak",
     "stockStatus": "In Stock"
   },
