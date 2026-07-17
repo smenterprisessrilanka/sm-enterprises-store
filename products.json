@@ -78,7 +78,7 @@
     "price": 8499,
     "image": "images/mens-NIKE-shoes.jpg",
     "description": "Comfortable men's NIKE shoes. Size 43 available.",
-    "stockStatus": "In Stock"
+    "stockStatus": "Out of Stock"
   },
     {
     "id": 10,
