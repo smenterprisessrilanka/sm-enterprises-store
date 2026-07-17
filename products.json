@@ -109,6 +109,15 @@
   },
     {
     "id": 13,
+    "name": "Pink Cloud Slippers",
+    "category": "Shoes",
+    "price": 1250,
+    "image": "images/pink-cloud-slippers.jpg",
+    "description": "Comfortable low weight slippers. Size 39 available.",
+    "stockStatus": "In Stock"
+  },
+    {
+    "id": 14,
     "name": "LED Watch",
     "category": "Watches",
     "price": 799,
@@ -117,16 +126,34 @@
     "stockStatus": "In Stock"
   },
     {
-    "id": 14,
+    "id": 15,
     "name": "Men's Watch",
     "category": "Watches",
-    "price": 4999,
+    "price": 1200,
     "image": "images/mens-watch.jpg",
     "description": "Men's watch.",
     "stockStatus": "In Stock"
   },
     {
-    "id": 15,
+    "id": 16,
+    "name": "Portable Hanging Watch",
+    "category": "Watches",
+    "price": 780,
+    "image": "images/portable-hanging-watch.jpg",
+    "description": "Portable Hanging Watch",
+    "stockStatus": "In Stock"
+  },
+    {
+    "id": 17,
+    "name": "Digital Alarm Cloak",
+    "category": "Watches",
+    "price": 950,
+    "image": "images/digital-alarm-clock.jpg",
+    "description": "Digital Alarm Cloak",
+    "stockStatus": "In Stock"
+  },
+    {
+    "id": 18,
     "name": "48 Colores Acrylic Paint Art Marker Set",
     "category": "Art and Craft",
     "price": 2200,
@@ -135,7 +162,7 @@
     "stockStatus": "In Stock"
   },
     {
-    "id": 16,
+    "id": 19,
     "name": "48 Colores Acrylic Paint Art Marker Set Box",
     "category": "Art and Craft",
     "price": 2500,
@@ -144,7 +171,7 @@
     "stockStatus": "Out of Stock"
   },
     {
-    "id": 17,
+    "id": 20,
     "name": "60 Colores Acrylic Paint Art Marker Set Box",
     "category": "Art and Craft",
     "price": 4900,
@@ -153,7 +180,7 @@
     "stockStatus": "In Stock"
   },
     {
-    "id": 18,
+    "id": 21,
     "name": "60 Colores Acrylic Paint Art Marker Set",
     "category": "Art and Craft",
     "price": 3200,
@@ -162,7 +189,7 @@
     "stockStatus": "Out of Stock"
   },
     {
-    "id": 19,
+    "id": 22,
     "name": "Mini Padlock with a Key",
     "category": "Other",
     "price": 450,
@@ -171,7 +198,7 @@
     "stockStatus": "In Stock"
   },
     {
-    "id": 20,
+    "id": 23,
     "name": "16-In-1 Vegetable Chopper",
     "category": "Kitchen Items",
     "price": 3500,
@@ -180,7 +207,7 @@
     "stockStatus": "In Stock"
   },
     {
-    "id": 21,
+    "id": 24,
     "name": "Clip on Fully Capacitive Microphone",
     "category": "Lights and Mics",
     "price": 699,
@@ -189,7 +216,7 @@
     "stockStatus": "In Stock"
   },
     {
-    "id": 22,
+    "id": 25,
     "name": "Easterdecor Professional Wireless Lavalier Microphone",
     "category": "Lights and Mics",
     "price":1760,
@@ -198,7 +225,7 @@
     "stockStatus": "In Stock"
   },
     {
-    "id": 23,
+    "id": 26,
     "name": "Sunset Light Projector USB Night Light",
     "category": "Lights and Mics",
     "price":800,
@@ -207,7 +234,7 @@
     "stockStatus": "In Stock"
   },
     {
-    "id": 24,
+    "id": 27,
     "name": "Corn Stripper Peeler",
     "category": "Kitchen Items",
     "price": 610,
@@ -216,7 +243,7 @@
     "stockStatus": "In Stock"
   },
     {
-    "id": 25,
+    "id": 28,
     "name": "USB Eye-Caring Night Light",
     "category": "Lights and Mics",
     "price":199,
@@ -225,7 +252,7 @@
     "stockStatus": "In Stock"
   },
     {
-    "id": 26,
+    "id": 29,
     "name": "LED Smart Human Motion Sensor Strip Night Light for Cabinets",
     "category": "Lights and Mics",
     "price":940,
@@ -234,7 +261,7 @@
     "stockStatus": "In Stock"
   },
     {
-    "id": 27,
+    "id": 30,
     "name": "Stainless Steel Corn Peeler",
     "category": "Kitchen Items",
     "price": 720,
@@ -243,7 +270,7 @@
     "stockStatus": "In Stock"
   },
     {
-    "id": 28,
+    "id": 31,
     "name": "High-quality Matte Translucent Shock Cover Designed Suitable for iPhone 17 Pro ",
     "category": "Mobile Accessories",
     "price": 1100,
@@ -252,7 +279,7 @@
     "stockStatus": "In Stock"
   },
     {
-    "id": 29,
+    "id": 32,
     "name": "Mini Desktop Vacuum Cleaner",
     "category": "Other",
     "price": 1750,
@@ -261,7 +288,7 @@
     "stockStatus": "In Stock"
   },
     {
-    "id": 30,
+    "id": 33,
     "name": "100 Pairs of Random Urban Beauty Earrings",
     "category": "Fancy",
     "price": 1900,
@@ -270,7 +297,7 @@
     "stockStatus": "In Stock"
   },
     {
-    "id": 31,
+    "id": 34,
     "name": "Enchanteur Romantic Perfumed Body Lotion 500 ml",
     "category": "Fancy",
     "price": 1600,
