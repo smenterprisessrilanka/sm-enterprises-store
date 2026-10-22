@@ -199,6 +199,15 @@
   },
     {
     "id": 23,
+    "name": "6 in 1 Dual Tip Hilighter Set",
+    "category": "Art and Craft",
+    "price": 600,
+    "image": "dual-tip-hilighters.jpg",
+    "description": "6 Dual Tip Pens, One side Hi-lighter and other side Markerpen",
+    "stockStatus": "In Stock"
+  },
+    {
+    "id": 24,
     "name": "Mini Padlock with a Key",
     "category": "Other",
     "price": 450,
@@ -207,7 +216,7 @@
     "stockStatus": "In Stock"
   },
     {
-    "id": 24,
+    "id": 25,
     "name": "16-In-1 Vegetable Chopper",
     "category": "Kitchen Items",
     "price": 3500,
@@ -216,7 +225,7 @@
     "stockStatus": "In Stock"
   },
     {
-    "id": 25,
+    "id": 26,
     "name": "Clip on Fully Capacitive Microphone",
     "category": "Lights and Mics",
     "price": 699,
@@ -225,7 +234,7 @@
     "stockStatus": "In Stock"
   },
     {
-    "id": 26,
+    "id": 27,
     "name": "Easterdecor Professional Wireless Lavalier Microphone",
     "category": "Lights and Mics",
     "price":1760,
@@ -234,7 +243,7 @@
     "stockStatus": "In Stock"
   },
     {
-    "id": 27,
+    "id": 28,
     "name": "Sunset Light Projector USB Night Light",
     "category": "Lights and Mics",
     "price":800,
@@ -243,7 +252,7 @@
     "stockStatus": "In Stock"
   },
     {
-    "id": 28,
+    "id": 29,
     "name": "Corn Stripper Peeler",
     "category": "Kitchen Items",
     "price": 610,
@@ -252,7 +261,7 @@
     "stockStatus": "In Stock"
   },
     {
-    "id": 29,
+    "id": 30,
     "name": "USB Eye-Caring Night Light",
     "category": "Lights and Mics",
     "price":199,
@@ -261,7 +270,7 @@
     "stockStatus": "In Stock"
   },
     {
-    "id": 30,
+    "id": 31,
     "name": "LED Smart Human Motion Sensor Strip Night Light for Cabinets",
     "category": "Lights and Mics",
     "price":940,
@@ -270,7 +279,7 @@
     "stockStatus": "In Stock"
   },
     {
-    "id": 31,
+    "id": 32,
     "name": "Stainless Steel Corn Peeler",
     "category": "Kitchen Items",
     "price": 720,
@@ -279,7 +288,7 @@
     "stockStatus": "In Stock"
   },
     {
-    "id": 32,
+    "id": 33,
     "name": "High-quality Matte Translucent Shock Cover Designed Suitable for iPhone 17 Pro ",
     "category": "Mobile Accessories",
     "price": 1100,
@@ -288,7 +297,7 @@
     "stockStatus": "In Stock"
   },
     {
-    "id": 33,
+    "id": 34,
     "name": "Mini Desktop Vacuum Cleaner",
     "category": "Other",
     "price": 1750,
@@ -297,16 +306,16 @@
     "stockStatus": "In Stock"
   },
     {
-    "id": 34,
+    "id": 35,
     "name": "100 Pairs of Random Urban Beauty Earrings",
     "category": "Fancy",
     "price": 1900,
     "image": "images/100-beauty-earrings.png",
     "description": "100 Pairs of Random Urban Beauty Earrings with Multiple Patterns, Suitable for Women And, Daily Party Plastic Perforated Earring Set",
-    "stockStatus": "In Stock"
+    "stockStatus": "Out of Stock"
   },
     {
-    "id": 35,
+    "id": 36,
     "name": "Enchanteur Romantic Perfumed Body Lotion 500 ml",
     "category": "Fancy",
     "price": 1600,
