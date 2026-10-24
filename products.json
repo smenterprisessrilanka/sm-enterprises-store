@@ -307,20 +307,20 @@
   },
     {
     "id": 35,
+    "name": "Mini Portable Fan",
+    "category": "Other",
+    "price": 500,
+    "image": "images/mini-portable-fan.jpg",
+    "description": "Mini Portable Fan with Type-C Port",
+    "stockStatus": "In Stock"
+  },
+    {
+    "id": 36,
     "name": "100 Pairs of Random Urban Beauty Earrings",
     "category": "Fancy",
     "price": 1900,
     "image": "images/100-beauty-earrings.png",
     "description": "100 Pairs of Random Urban Beauty Earrings with Multiple Patterns, Suitable for Women And, Daily Party Plastic Perforated Earring Set",
-    "stockStatus": "Out of Stock"
-  },
-    {
-    "id": 36,
-    "name": "Enchanteur Romantic Perfumed Body Lotion 500 ml",
-    "category": "Fancy",
-    "price": 1600,
-    "image": "images/enchanteur-romantic-perfumed-body-lotion.png",
-    "description": "MoistureSilk with Aloe Vera & Olive Butter | Soft, Glowing & Fragrant Skin",
     "stockStatus": "Out of Stock"
   }
 ]
