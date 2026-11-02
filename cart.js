@@ -18,7 +18,7 @@ function getShippingCost(area) {
   if (area === "gampaha") return 450;
   if (area === "south") return 450;
   if (area === "central") return 450;
-  return 400;
+  return 500;
 }
 
 function getShippingLabel(area) {
