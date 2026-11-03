@@ -265,7 +265,7 @@
     "name": "Galaxy Buds 2",
     "category": "Lights and Mics",
     "price":14000,
-    "image": "images/galaxy-buds-2.jpg",
+    "image": "images/galaxy-buds-2.jpeg",
     "description": "Enjoy immersive sound, Active Noise Cancellation (ANC), and all-day comfort with the lightweight and ergonomic Samsung Galaxy Buds 2. Perfect for music and crystal-clear calls on the go.",
     "stockStatus": "In Stock"
   },
@@ -274,7 +274,7 @@
     "name": "Galaxy Buds 2 Pro",
     "category": "Lights and Mics",
     "price":17000,
-    "image": "images/galaxy-buds-2-pro.jpg",
+    "image": "images/galaxy-buds-2-pro.jpeg",
     "description": "Experience studio-grade 24-bit Hi-Fi sound, Intelligent ANC, and a comfortable ergonomic fit designed for ultimate immersion.",
     "stockStatus": "In Stock"
   },
