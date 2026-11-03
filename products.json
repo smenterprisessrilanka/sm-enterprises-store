@@ -226,60 +226,6 @@
   },
     {
     "id": 26,
-    "name": "Clip on Fully Capacitive Microphone",
-    "category": "Lights and Mics",
-    "price": 699,
-    "image": "images/clip-on-mic.jpg",
-    "description": "A Mini Condenser Microphone with a 3.5Mm Jack, a Compact And Portable Clip-On Mic Suitable for Recording, Live Streaming, And Karaoke",
-    "stockStatus": "In Stock"
-  },
-    {
-    "id": 27,
-    "name": "Easterdecor Professional Wireless Lavalier Microphone",
-    "category": "Lights and Mics",
-    "price":1760,
-    "image": "images/wireless-lavalier-microphone.jpg",
-    "description": "Easterdecor Professional Wireless Lavalier Microphone, Noise-Canceling Function, Clear Audio, Lightweight Clip-On Design, Compatible with Smartphones, Laptops, Wireless Condenser Recording Microphone, Suitable for-- Interviews, Video Podcasts",
-    "stockStatus": "In Stock"
-  },
-    {
-    "id": 28,
-    "name": "Sunset Light Projector USB Night Light",
-    "category": "Lights and Mics",
-    "price":800,
-    "image": "images/sunset-light-projector-USB-night-light.jpeg",
-    "description": "1pc Sunset Light Projector USB Night Light, Romantic Floor Lamp, Bedroom Ambiance Living Room Decoration, Rainbow Projection Lamp Gift Photo Background Romantic",
-    "stockStatus": "In Stock"
-  },
-    {
-    "id": 29,
-    "name": "Corn Stripper Peeler",
-    "category": "Kitchen Items",
-    "price": 610,
-    "image": "images/corn-stripper-peeler.jpg",
-    "description": "Corn Stripper Peeler Cob Cutter Thresher Corn Stripper Fruit Vegetable Tools Cooking Tools Kitchen Accessories Cob Remover",
-    "stockStatus": "In Stock"
-  },
-    {
-    "id": 30,
-    "name": "USB Eye-Caring Night Light",
-    "category": "Lights and Mics",
-    "price":150,
-    "image": "images/USB-eye-caring-night-light.jpg",
-    "description": "USB Eye-Caring Night Light, Bedroom Eye-Caring Table Lamp, Computer Mini Light, Portable Round Light for Power Banks, Modern Minimalist Creative USB Night Light for Bedside, Bedroom, Car Use, Ambient Lighting.",
-    "stockStatus": "In Stock"
-  },
-    {
-    "id": 31,
-    "name": "LED Smart Human Motion Sensor Strip Night Light for Cabinets",
-    "category": "Lights and Mics",
-    "price":940,
-    "image": "images/human-motion-sensor-strip-night-light.jpg",
-    "description": "1pc 10.01cm~50.01cm LED Smart Human Motion Sensor Strip Night Light for Cabinets, Wireless USB Powered Warm White & White Cabinet Lighting Strip, for easy to Install with Magnetic Adhesive, Suitable for Closets, Wardrobes, Cabinets, Stairs.",
-    "stockStatus": "Out of Stock"
-  },
-    {
-    "id": 32,
     "name": "Stainless Steel Corn Peeler",
     "category": "Kitchen Items",
     "price": 720,
@@ -288,7 +234,79 @@
     "stockStatus": "In Stock"
   },
     {
+    "id": 27,
+    "name": "Corn Stripper Peeler",
+    "category": "Kitchen Items",
+    "price": 610,
+    "image": "images/corn-stripper-peeler.jpg",
+    "description": "Corn Stripper Peeler Cob Cutter Thresher Corn Stripper Fruit Vegetable Tools Cooking Tools Kitchen Accessories Cob Remover",
+    "stockStatus": "In Stock"
+  },
+    {
+    "id": 28,
+    "name": "Clip on Fully Capacitive Microphone",
+    "category": "Lights and Mics",
+    "price": 699,
+    "image": "images/clip-on-mic.jpg",
+    "description": "A Mini Condenser Microphone with a 3.5Mm Jack, a Compact And Portable Clip-On Mic Suitable for Recording, Live Streaming, And Karaoke",
+    "stockStatus": "In Stock"
+  },
+    {
+    "id": 29,
+    "name": "Easterdecor Professional Wireless Lavalier Microphone",
+    "category": "Lights and Mics",
+    "price":1760,
+    "image": "images/wireless-lavalier-microphone.jpg",
+    "description": "Easterdecor Professional Wireless Lavalier Microphone, Noise-Canceling Function, Clear Audio, Lightweight Clip-On Design, Compatible with Smartphones, Laptops, Wireless Condenser Recording Microphone, Suitable for-- Interviews, Video Podcasts",
+    "stockStatus": "In Stock"
+  },
+    {
+    "id": 30,
+    "name": "Galaxy Buds 2",
+    "category": "Lights and Mics",
+    "price":14000,
+    "image": "images/galaxy-buds-2.jpg",
+    "description": "Enjoy immersive sound, Active Noise Cancellation (ANC), and all-day comfort with the lightweight and ergonomic Samsung Galaxy Buds 2. Perfect for music and crystal-clear calls on the go.",
+    "stockStatus": "In Stock"
+  },
+    {
+    "id": 31,
+    "name": "Galaxy Buds 2 Pro",
+    "category": "Lights and Mics",
+    "price":17000,
+    "image": "images/galaxy-buds-2-pro.jpg",
+    "description": "Experience studio-grade 24-bit Hi-Fi sound, Intelligent ANC, and a comfortable ergonomic fit designed for ultimate immersion.",
+    "stockStatus": "In Stock"
+  },
+    {
+    "id": 32,
+    "name": "Sunset Light Projector USB Night Light",
+    "category": "Lights and Mics",
+    "price":800,
+    "image": "images/sunset-light-projector-USB-night-light.jpeg",
+    "description": "1pc Sunset Light Projector USB Night Light, Romantic Floor Lamp, Bedroom Ambiance Living Room Decoration, Rainbow Projection Lamp Gift Photo Background Romantic",
+    "stockStatus": "In Stock"
+  },
+    {
     "id": 33,
+    "name": "USB Eye-Caring Night Light",
+    "category": "Lights and Mics",
+    "price":150,
+    "image": "images/USB-eye-caring-night-light.jpg",
+    "description": "USB Eye-Caring Night Light, Bedroom Eye-Caring Table Lamp, Computer Mini Light, Portable Round Light for Power Banks, Modern Minimalist Creative USB Night Light for Bedside, Bedroom, Car Use, Ambient Lighting.",
+    "stockStatus": "In Stock"
+  },
+    {
+    "id": 34,
+    "name": "LED Smart Human Motion Sensor Strip Night Light for Cabinets",
+    "category": "Lights and Mics",
+    "price":940,
+    "image": "images/human-motion-sensor-strip-night-light.jpg",
+    "description": "1pc 10.01cm~50.01cm LED Smart Human Motion Sensor Strip Night Light for Cabinets, Wireless USB Powered Warm White & White Cabinet Lighting Strip, for easy to Install with Magnetic Adhesive, Suitable for Closets, Wardrobes, Cabinets, Stairs.",
+    "stockStatus": "Out of Stock"
+  },
+    {
+    "id": 35,
     "name": "High-quality Matte Translucent Shock Cover Designed Suitable for iPhone 17 Pro ",
     "category": "Mobile Accessories",
     "price": 1100,
@@ -297,7 +315,7 @@
     "stockStatus": "In Stock"
   },
     {
-    "id": 34,
+    "id": 36,
     "name": "Mini Desktop Vacuum Cleaner",
     "category": "Other",
     "price": 1750,
@@ -306,7 +324,7 @@
     "stockStatus": "In Stock"
   },
     {
-    "id": 35,
+    "id": 37,
     "name": "Mini Portable Fan",
     "category": "Other",
     "price": 500,
@@ -315,7 +333,7 @@
     "stockStatus": "In Stock"
   },
     {
-    "id": 36,
+    "id": 38,
     "name": "100 Pairs of Random Urban Beauty Earrings",
     "category": "Fancy",
     "price": 1900,
