@@ -343,9 +343,18 @@
   },
     {
     "id": 39,
-    "name": "Hair Ties",
+    "name": "Hair Ties Classic",
     "category": "Fancy",
     "price": 20,
+    "image": "images/hair-ties-simple.jpeg",
+    "description": "Soft, seamless elastic hair ties in classic black and neutral earth tones for a strong, snag-free hold all day without pulling or damaging your hair.",
+    "stockStatus": "In Stock"
+  },
+    {
+    "id": 40,
+    "name": "Hair Ties Roar",
+    "category": "Fancy",
+    "price": 50,
     "image": "images/hair-ties-simple.jpeg",
     "description": "Soft, seamless elastic hair ties in classic black and neutral earth tones for a strong, snag-free hold all day without pulling or damaging your hair.",
     "stockStatus": "In Stock"
