@@ -341,6 +341,15 @@
     "description": "100 Pairs of Random Urban Beauty Earrings with Multiple Patterns, Suitable for Women And, Daily Party Plastic Perforated Earring Set",
     "stockStatus": "In Stock"
   }
+    {
+    "id": 39,
+    "name": "Hair Ties",
+    "category": "Fancy",
+    "price": 20,
+    "image": "images/hair-ties-simple.jpeg",
+    "description": "Soft, seamless elastic hair ties in classic black and neutral earth tones for a strong, snag-free hold all day without pulling or damaging your hair.",
+    "stockStatus": "In Stock"
+  }
 ]
 
 
