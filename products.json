@@ -3,10 +3,10 @@
     "id": 1,
     "name": "8 in 1 USB Hub Silver",
     "category": "Mobile Accessories",
-    "price": 1300,
+    "price": 1450,
     "image": "images/USB-hub-silver.jpg",
     "description": "8 in 1 USB Hub Silver",
-    "stockStatus": "Limited Stock"
+    "stockStatus": "Out of Stock"
   },
     {
     "id": 2,
@@ -15,7 +15,7 @@
     "price": 830,
     "image": "images/USB-hub-black.png",
     "description": "4 in 1 USB Hub",
-    "stockStatus": "Limited Stock"
+    "stockStatus": "Out of Stock"
   },
     {
     "id": 3,
